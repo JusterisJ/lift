@@ -330,3 +330,7 @@ button {
     bottom: 200px;
     transition: all 1s linear;
 }
+.onFloor3 {
+    bottom: 400px;
+    transition: all 1s linear;
+}
